@@ -34,7 +34,7 @@
     "object.values": "^1.0.4"
   },
   "peerDependencies": {
-    "knex": "^0.12.6"
+    "knex": "^2.3.0"
   },
   "devDependencies": {
     "eslint": "^3.13.1",
